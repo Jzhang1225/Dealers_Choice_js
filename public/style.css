@@ -1,0 +1,18 @@
+body {
+    background-color: gold;
+    text-align: center;
+}
+img{
+    height:50px;
+    width:50px;
+}
+h3{
+    text-decoration: underline;
+}
+
+.description{
+    position: relative;
+    left:38%;
+    width: 300px;
+    height: 200px;
+}
